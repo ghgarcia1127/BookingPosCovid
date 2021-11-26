@@ -1,0 +1,13 @@
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\bin\Debug\netcoreapp3.1\PostCovidBooking.Data.deps.json
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\bin\Debug\netcoreapp3.1\PostCovidBooking.Data.runtimeconfig.json
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\bin\Debug\netcoreapp3.1\PostCovidBooking.Data.runtimeconfig.dev.json
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\bin\Debug\netcoreapp3.1\PostCovidBooking.Data.dll
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\bin\Debug\netcoreapp3.1\PostCovidBooking.Data.pdb
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.csproj.AssemblyReference.cache
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.AssemblyInfoInputs.cache
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.AssemblyInfo.cs
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.csproj.CoreCompileInputs.cache
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.dll
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.pdb
+C:\Users\jgarc967\Projects\PostCovidBooking\PostCovidBooking.Data\obj\Debug\netcoreapp3.1\PostCovidBooking.Data.genruntimeconfig.cache

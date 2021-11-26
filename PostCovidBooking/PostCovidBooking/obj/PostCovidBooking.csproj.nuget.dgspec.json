@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking\\PostCovidBooking.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\PostCovidBooking.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\PostCovidBooking.Core.csproj",
+        "projectName": "PostCovidBooking.Core",
+        "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\PostCovidBooking.Core.csproj",
+        "packagesPath": "C:\\Users\\jgarc967\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jgarc967\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/External/nuget/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj": {
+                "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj"
+              },
+              "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\PostCovidBooking.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\PostCovidBooking.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj",
+        "projectName": "PostCovidBooking.Data",
+        "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj",
+        "packagesPath": "C:\\Users\\jgarc967\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jgarc967\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/External/nuget/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Cosmos": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\PostCovidBooking.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\PostCovidBooking.Infraestructure.csproj",
+        "projectName": "PostCovidBooking.Infraestructure",
+        "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\PostCovidBooking.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jgarc967\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jgarc967\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/External/nuget/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking\\PostCovidBooking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking\\PostCovidBooking.csproj",
+        "projectName": "PostCovidBooking",
+        "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking\\PostCovidBooking.csproj",
+        "packagesPath": "C:\\Users\\jgarc967\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jgarc967\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/External/nuget/v3/index.json": {},
+          "https://selection-navigator.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\PostCovidBooking.Core.csproj": {
+                "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Core\\PostCovidBooking.Core.csproj"
+              },
+              "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj": {
+                "projectPath": "C:\\Users\\jgarc967\\Projects\\PostCovidBooking\\PostCovidBooking.Data\\PostCovidBooking.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Cosmos": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
