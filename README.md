@@ -20,3 +20,9 @@ To Debug this Application Open the azure Cosmos DB Emulator and create a DB Call
 The solution has the following Structure:
 
 ![image](https://user-images.githubusercontent.com/7016922/143625166-1f59220d-a172-44f7-9795-09667e8b83b9.png)
+
+ON Base project you can find the API with all the controllers and configuration files
+On Core project you can find all the services and the business logic from the application
+On Data Project you can find all the repositories and data access layer
+On infraestructure you can find helpers, atributes, extention methods, Etc... used for the other layers on the application
+On test proyect you can find some examples of the unit testing that the aplication probably require
